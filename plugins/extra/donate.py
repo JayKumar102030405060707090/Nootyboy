@@ -16,18 +16,18 @@ async def donate(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "🥀 𝐁𝐢𝐤𝐚𝐬𝐡 🥀", url=f"https://t.me/BikashHalder")
+                        "🥀 Nooty 🥀", url=f"https://t.me/ATTITUDE_MAXXXX")
             ],          
             [
                     InlineKeyboardButton(
-                        "🥀 𝐀𝐝𝐢𝐭𝐲𝐚 🥀", url=f"https://t.me/AdityaHalder")
+                        "🥀 Earning🥀", url=f"https://t.me/EARNNINGS_TIME")
                 ],
                 [
                     InlineKeyboardButton(
-                        "🥀 𝐒𝐮𝐩𝐩𝐨𝐫𝐭 🥀", url=f"https://t.me/Bgt_Chat"
+                        "🥀 𝐒𝐮𝐩𝐩𝐨𝐫𝐭 🥀", url=f"https://t.me/LOVE_CONNECTIONN"
                     ),
                     InlineKeyboardButton(
-                        "🥀 𝐔𝐩𝐝𝐚𝐭𝐞𝐬 🥀", url=f"https://t.me/BikashGadgetsTech")
+                        "🥀 𝐔𝐩𝐝𝐚𝐭𝐞𝐬 🥀", url=f"https://t.me/LOVE_CONNECTIONN")
                 ]
             ]
         ),
