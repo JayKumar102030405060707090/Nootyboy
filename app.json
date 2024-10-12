@@ -16,17 +16,17 @@
     "env": {
       "API_ID": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "25496841",
+        "value": "27448697",
         "required": true
       },
       "API_HASH": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "d7ed3ebb8f4323c37c5ffcac40e677d4",
+        "value": "4d6735afccfcfab76751fde17cb4030b",
         "required": true
       },
       "BOT_TOKEN": {
         "description": "Put Your Bot token from Botfather",
-        "value": "",
+        "value": "7511908908:AAGHGQsvkEIkFnDi5srxsqmjzZg4Sq7bHqk",
         "required": true
       },
       "MONGO_DB_URI": {
@@ -36,7 +36,7 @@
       },
       "MUSIC_BOT_NAME": {
         "description": "A name for your Music Bot. You can use special characters",
-        "value": "NOOTY 𝐌𝐔𝐒𝐈𝐂 ",
+        "value": "𝐊𝐎𝐌𝐀𝐋 𝐌𝐔𝐒𝐈𝐂 ",
         "required": true
       },
       "OWNER_ID": {
@@ -46,12 +46,12 @@
       },
       "STRING_SESSION": {
         "description": "A Pyrogram v2 String Session. One Assistant is Compulsory.",
-        "value": "",
+        "value": "BQGi1XkAFerZK6llCMlnT0Pvto2Uf8cKRZUX7bc71frd8lXQr-qIODBb_RYSdkW0uP_OEhghhj5ItHWpY8Svg32dTDXGaOlNTtNF2mOInAqje9864l3SglrTDJR0ZS0KE_DEdN4QNIPsoLu2Epq6fSRSg7Y9Geqa1d090Zy_NEpK2J5U2uG2Db1JBpEPg6g54Bw0ydt6aaoNpobnYqXF05rfYyQ2XIxKtgSbwGo1Rwq-PJtQIQlpbNHvW9lfFJq7PpIsI5mE2yvRAbrpUlh9NP26tx1KMfiB29LEbZSHEDIVLtILjmy1koQOTL9-lUN5rJxDoJWNMIUiQQpNfBptan3FTVdntQAAAAGnz_AQAA",
         "required": true
       },
       "LOG_GROUP_ID": {
         "description": "Your Log Group ID, add your bot and promote as an admin with full rights !",
-        "value": "",
+        "value": "-1002381999205",
         "required": true
       }
     },
