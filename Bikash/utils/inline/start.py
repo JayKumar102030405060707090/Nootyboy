@@ -29,7 +29,7 @@ def start_pannel(_, BOT_USERNAME, OWNER: Union[bool, int] = None):
         ],
         [           
             InlineKeyboardButton(
-                text="📱 Updates 📱", url=f"https://t.me/LOVE_CONNECTIONN"
+                text="📱 Updates 📱", url=f"https://t.me/Darkworld_Officiall"
             )
         ],
      ]
@@ -59,7 +59,7 @@ def private_panel(_, BOT_USERNAME, OWNER: Union[bool, int] = None):
         ],
         [           
             InlineKeyboardButton(
-                text="📱 Updates 📱", url=f"https://t.me/LOVE_CONNECTIONN"
+                text="📱 Updates 📱", url=f"https://t.me/Darkworld_Officiall"
             )
         ],
         [
