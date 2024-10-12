@@ -14,7 +14,7 @@ def botplaylist_markup(_):
         ],
         [           
             InlineKeyboardButton(
-                text="📱 Updates 📱", url=f"https://t.me/LOVE_CONNECTIONN"
+                text="📱 Updates 📱", url=f"https://t.me/Darkworld_Officiall"
             ),
         ],
         [
@@ -48,7 +48,7 @@ def top_play_markup(_):
         ],
         [           
             InlineKeyboardButton(
-                text="📱 Updates 📱", url=f"https://t.me/LOVE_CONNECTIONN"
+                text="📱 Updates 📱", url=f"https://t.me/Darkworld_Officiall"
             ),
         ],
         [
